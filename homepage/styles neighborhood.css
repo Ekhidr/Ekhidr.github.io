@@ -1,0 +1,29 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Felipa', cursive;
+    font-size: 58px;
+}
+body {
+   background: #836c6f;
+}
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 300px;
+}
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+.desc {
+  padding: 20px;
+  text-align: center;
+  color:lightgrey;
+  font-family:'Source Serif Pro', serif;
+}
+.neighborhood {
+  margin-left: 100px;
+  margin-right: 100px;
+}

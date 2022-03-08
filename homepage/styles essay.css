@@ -1,0 +1,18 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Felipa', cursive;
+    font-size: 58px;
+}
+body {
+    background: #5d7d8b;
+}
+.essay {
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: left;
+    color: lightgrey;
+    text-indent: 50px;
+    font-family:'Source Serif Pro', serif;
+    font-size:18px;
+}
